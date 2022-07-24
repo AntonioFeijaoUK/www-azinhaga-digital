@@ -1,1 +1,5 @@
-# Azinhaga Digital
+---
+layout: default
+---
+
+## Azinhaga Digital
