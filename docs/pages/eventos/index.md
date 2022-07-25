@@ -24,13 +24,22 @@ Informacao sobre eventos
 
 <div class="container">
   <section id="secretcode">
+    
     <form class="form1" onSubmit="checkCODE(); return false; ">
       <input class="form1" type="text" id="enterCODE" required autofocus />
     </form>
+    
     <p>format "<i>January 1st 2021</i>"</p>  
-    <p><button id="NEXT" class="button button-green" type="button" style="visibility: hidden" ; onclick="clickNEXT()">NEXT</button></p>  
+    
+    <p>
+      <button class="button button-green" type="button" onclick="clickNEXT()" value="Next" id="NEXT" style="visibility: hidden">NEXT</button>
+    </p>  
+    
     <p id="checkCODE"></p>  
-    <p><button class="button button-blue" type="button" value="checkMyCode" onclick="checkCODE()">CHECK MY CODE</button></p>  
+    <p>
+      <button class="button button-blue" type="button" onclick="checkCODE()" value="checkMyCode">CHECK MY CODE</button>
+    </p>
+    
   </section>
 </div>
 <script src="/pages/eventos/js/index.js"></script>
