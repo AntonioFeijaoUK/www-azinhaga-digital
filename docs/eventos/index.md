@@ -6,7 +6,7 @@ permalink: /eventos/
 
 # Eventos na Azinhaga Digital
 
-Informacao sobre eventos
+`Informacao sobre eventos`
 
 ---
 
@@ -18,8 +18,6 @@ Informacao sobre eventos
     <p class="timer" id="TIMER" style="font-size: 30px"></p>
   </section>
 </div>
-<script src="/pages/eventos/js/count-down-timer.js"></script>
-
 
 
 <div class="container">
@@ -42,8 +40,9 @@ Informacao sobre eventos
     
   </section>
 </div>
-<script src="/pages/eventos/js/index.js"></script>
 
+<script src="/eventos/js/index.js"></script>
+<script src="/eventos/js/count-down-timer.js"></script>
 
 ---
 
