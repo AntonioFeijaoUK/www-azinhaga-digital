@@ -4,7 +4,8 @@ var password = document.querySelectorAll('[data-id="password"]')
 
 function login(secret) {
     var hash = sha1(secret)
-    var url = hash + "/index.html"
+    /*  var url = hash + "/index.html"  */
+    var url = hash + "/"
     var alert = document.querySelectorAll('[data-id="alert"]')
 
     var request = new XMLHttpRequest()
