@@ -19,29 +19,6 @@ permalink: /eventos/
   </section>
 </div>
 
-
-<div class="container">
-  <section id="secretcode">
-    
-    <form class="form1" onSubmit="checkCODE(); return false; ">
-      <input class="form1" type="text" id="enterCODE" required autofocus />
-    </form>
-    
-    <p>format "<i>January 1st 2021</i>"</p>  
-    
-    <p>
-      <button class="button button-green" type="button" onclick="clickNEXT()" value="Next" id="NEXT" style="visibility: hidden">NEXT</button>
-    </p>  
-    
-    <p id="checkCODE"></p>  
-    <p>
-      <button class="button button-blue" type="button" onclick="checkCODE()" value="checkMyCode">CHECK MY CODE</button>
-    </p>
-    
-  </section>
-</div>
-
-<script src="/eventos/js/index.js"></script>
 <script src="/eventos/js/count-down-timer.js"></script>
 
 ---
@@ -51,3 +28,18 @@ permalink: /eventos/
 ```bash
 echo "Pass events"
 ```
+
+---
+
+<div class="protected">
+    <div class="protected__alert" data-id="alert">You entered the wrong password</div>
+    <div class="protected__content">
+        <h1 class="protected__content__heading">You need a password to continue</h1>
+        <input class="protected__content__input" data-id="password" type="password" placeholder="password" />
+        <button data-id="button" type="button" class="protected__content__btn">Continue</button>
+    </div>
+</div>
+
+<link rel="stylesheet" href="/eventos/css/check-my-password.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
+<script type="text/javascript" src="/eventos/js/check-my-password.js"></script>
