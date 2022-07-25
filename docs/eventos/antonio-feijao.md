@@ -7,7 +7,7 @@ Antonio Feijao de Azinhaga para Londres...
 
 ---
 
-<stile>
+<style>
 .protected {
   background: #fff;
   -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
