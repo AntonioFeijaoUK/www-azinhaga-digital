@@ -6,7 +6,7 @@
 body {
   background: $body-background; /* same as background color */
 
-  background-image: url("/assets/images/background/nahil-naseer-xljtGZ2-P3Y-unsplash-medium.jpg");
+  background-image: url("/assets/images/background/close-up-of-green-leaves-on-blurred-leaf-background-free-photo.jpeg");
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -30,68 +30,4 @@ body {
 
 .timer-small {
     font-size: 26px;
-}
-
-.form1 {
-    border: 2px;
-    padding: 5px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 18px;
-    /* font-weight: bold; */
-    margin: 0px 0px;
-}
-
-/* Buttons
-*/
-
-.button {
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 100%;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-
-.button-green {
-    background-color: #4CAF50;
-    color: black;
-    border: 2px solid #4CAF50;
-}
-
-.button-green:hover {
-    background: #06b10f;
-    color: white;
-}
-
-.button-blue {
-    background-color: #008CBA;
-    color: rgb(0, 0, 0);
-    border: 2px solid #2453ec;
-}
-
-.button-blue:hover {
-    background: rgba(23, 77, 255, 0.9);
-    color: rgb(255, 255, 255);
-}
-
-.button-red {
-    background-color: #f44336;
-    /* Red */
-}
-
-.button-gray {
-    background-color: #e7e7e7;
-    /* Gray */
-    color: black;
-}
-
-.button-black {
-    background-color: #555555;
-    /* Black */
 }
