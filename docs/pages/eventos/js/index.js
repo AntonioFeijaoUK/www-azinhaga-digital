@@ -38,7 +38,7 @@ async function checkCODE() {
 
 
     // HASH FOR LOWER CASE....
-    if (digestHex == "966705fd5e3e89d8c2c11cb99d4268470c37f9155bfc059040720a23dbfaccdf") {
+    if (digestHex == "7fa7d5bb273dac9bb8c89843f6e75cb5d90c384a27f40ccab401c7f14622c9cb") {
         document.getElementById("checkCODE").innerHTML = 'You got it right!';
         //alert(' " ' + CODE + ' " is CORRECT. Well Done!');
         //location.href = "./02kjdht.html";
