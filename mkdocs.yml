@@ -1,0 +1,94 @@
+# Project information
+site_name: Azinhaga.Digital
+site_url: https://azinhaga.digital/
+site_author: Antonio Feijao UK
+site_description: >-
+  Azinhaga digital
+  learning by doing, linux, networking, containers, aws, cloud, pentesting, and more...
+
+# Copyright
+copyright: Copyright &copy; 2022 <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a> 
+
+theme:
+  name: material
+  logo: assets/images/logo/security-games-net-logo.png
+  features:
+    - navigation.tracking
+    - content.code.annotate
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+  highlightjs: true
+  hljs_languages:
+      - yaml
+  shortcuts:
+      help: 72     # h ###help: 191    # ?
+      next: 78     # n
+      previous: 80 # p
+      search: 83   # s
+  navigation_depth: 4
+  language: en
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      name: "color-scheme-light"
+      scheme: default
+      primary: blue
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      name: "color-scheme-dark"
+      scheme: slate
+      primary: blue
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+#  font:
+#    text: Roboto
+#    code: Roboto Mono
+
+#extra_css:
+#  - assets/css/extra.css
+
+#extra_javascript:
+#   - assets/js/extra.js
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/antoniofeijaouk
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/AntonioFeijaoUK
+    - icon: fontawesome/brands/github
+      link: https://github.com/AntonioFeijaoUK
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/AntonioFeijaoUK
+      
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: iso_datetime
+      type: date
+      enable_creation_date: true
+      fallback_to_build_date: true
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+
+
