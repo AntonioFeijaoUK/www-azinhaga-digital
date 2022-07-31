@@ -2,6 +2,8 @@
 hide:
   - navigation
   - toc
+  - footer
+  #- insiders
 ---
 
 Bem vindo à [Azinhaga.Digital](https://azinhaga.digital/)
@@ -12,7 +14,7 @@ Tens os que é preciso para aprender securança informatica?
 
 <style>
 
-.hero-image {
+body {
     background-image: url("/assets/images/background/close-up-of-green-leaves-on-blurred-leaf-background-free-photo.jpeg");
     /*background-color: #cccccc;*/
     height: 500px;
@@ -23,6 +25,10 @@ Tens os que é preciso para aprender securança informatica?
     background-color: rgba(255, 255, 255, 0.4);
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(8px);
+}
+
+.hero-image {
+
 }
 
 .hero-text {
