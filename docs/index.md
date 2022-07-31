@@ -1,10 +1,14 @@
-# azinhaga digital
+---
+hide:
+  - navigation
+  - toc
+---
 
 Bem vindo à [Azinhaga.Digital](https://azinhaga.digital/)
 
-Tens os que é preciso para aprender a area de cyber security, ou securança informatica?
+Tens os que é preciso para aprender securança informatica?
 
-...
+[Computer_security](https://en.wikipedia.org/wiki/Computer_security) | [Cybersecurity_information_technology_list](https://en.wikipedia.org/wiki/Cybersecurity_information_technology_list) | versao PT - [Segurança da informação](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_da_informa%C3%A7%C3%A3o)
 
 <style>
 

@@ -11,7 +11,7 @@ copyright: Copyright &copy; 2022 <a href="https://www.antoniofeijao.com/">Antoni
 
 theme:
   name: material
-  logo: assets/images/logo/security-games-net-logo.png
+  logo: /assets/images/background/close-up-of-green-leaves-on-blurred-leaf-background-free-photo.jpeg
   features:
     - navigation.tracking
     - content.code.annotate

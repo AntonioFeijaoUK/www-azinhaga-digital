@@ -1,10 +1,10 @@
 ---
-layout: default
-title: "Antonio Feijao na Azinhaga"
----
+search:
+  exclude: true
 
-Antonio Feijao de Azinhaga para Londres...
-
+hide:
+  - navigation
+  - toc
 ---
 
 <div class="protected">
@@ -19,3 +19,17 @@ Antonio Feijao de Azinhaga para Londres...
 <link rel="stylesheet" href="/eventos/css/check-my-password.css">
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
 <script type="text/javascript" src="/eventos/js/check-my-password.js"></script>
+
+# antonio
+
+...
+
+```python
+
+name = 'Antonio index file'
+
+print(name)
+
+```
+
+Happy learning!
