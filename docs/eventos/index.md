@@ -33,7 +33,7 @@ console.log('vem aprender javascript')
 ## exemplo evento 3
 
 ```bash
-echo "vem aprender redes"
+echo "vem aprender redes ip"
 ```
 
 ## exemplo evento 4
