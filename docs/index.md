@@ -1,34 +1,32 @@
 ---
+#search:
+#  exclude: true
+
 hide:
   - navigation
   - toc
   - footer
-  #- insiders
 ---
-
-Bem vindo à [Azinhaga.Digital](https://azinhaga.digital/)
-
-Tens os que é preciso para aprender securança informatica?
-
-[Computer_security](https://en.wikipedia.org/wiki/Computer_security) | [Cybersecurity_information_technology_list](https://en.wikipedia.org/wiki/Cybersecurity_information_technology_list) | versao PT - [Segurança da informação](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_da_informa%C3%A7%C3%A3o)
 
 <style>
 
 body {
     background-image: url("/assets/images/background/close-up-of-green-leaves-on-blurred-leaf-background-free-photo.jpeg");
     /*background-color: #cccccc;*/
-    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
-    background-color: rgba(255, 255, 255, 0.4);
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(8px);
 }
 
 .hero-image {
-
+    height: 20vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: rgba(155, 155, 155, 0.1);
 }
 
 .hero-text {
@@ -44,7 +42,13 @@ body {
 
 <div class="hero-image">
     <div class="hero-text">
-        <h1 style="font-size:50px; color:white">Azinhaga.Digital</h1>
-        <h3>hands on on cyber security skills</h3>
+        <h1 style="font-size:50px; color:white;">Azinhaga.Digital</h1>
+        <h3>para um futuro mais digital</h3>
     </div>
 </div>
+
+* Bem vindo à [Azinhaga.Digital](https://azinhaga.digital/)
+
+* Iniciativa para uma Azinhaga mais Digital
+
+* Visita a pagina de [EVENTOS](/eventos)

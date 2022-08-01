@@ -74,11 +74,13 @@ extra:
       link: https://instagram.com/AntonioFeijaoUK
       
 plugins:
-  - git-revision-date-localized:
-      enable_creation_date: iso_datetime
-      type: date
-      enable_creation_date: true
-      fallback_to_build_date: true
+  #- search
+  # - git-revision-date-localized:
+  #     enable_creation_date: iso_datetime
+  #     type: date
+  #     enable_creation_date: true
+  #     fallback_to_build_date: true
+  
 
 # Extensions
 markdown_extensions:
