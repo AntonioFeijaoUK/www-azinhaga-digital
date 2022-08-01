@@ -74,7 +74,7 @@ extra:
       link: https://instagram.com/AntonioFeijaoUK
       
 plugins:
-  #- search
+  # - search
   # - git-revision-date-localized:
   #     enable_creation_date: iso_datetime
   #     type: date
