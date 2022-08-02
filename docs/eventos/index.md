@@ -1,6 +1,6 @@
 ---
-search:
-  exclude: true
+# search:
+#   exclude: true
 
 hide:
   - navigation
@@ -8,49 +8,36 @@ hide:
   - footer
 ---
 
-Informacao sobre eventos
+# Eventos
+
+Informacão sobre eventos
 
 <div class="container">
   <section id="countdown">
     <!-- Display the countdown timer in an element -->
-    <h2>Proximo evento previsto para daqui a <span class="timer" id="TIMER" style="font-size: 30px"></span></h2>
+    <h2>Próximo evento previsto para daqui a <strong><span class="timer" id="TIMER" style="font-size: 30px"></span></strong></h2>
   </section>
 </div>
 <script src="/eventos/js/count-down-timer.js"></script>
 
-## exemplo evento 1
+[exemplo evento 1](/eventos/#1)  
+`print('vem aprender python')`
 
-```py
-print('vem aprender python')
-```
+[exemplo evento 2](/eventos/#2)  
+`console.log('vem aprender javascript')`
 
-## exemplo evento 2
-
-```js
-console.log('vem aprender javascript')
-```
-
-## exemplo evento 3
-
-```bash
-echo "vem aprender redes ip"
-```
-
-## exemplo evento 4
-
-Vem aprender a por uma pagina na internet!
-
-## exemplo evento XYZ
+[exemplo evento 3](/eventos/#3)  
+`echo "vem aprender redes ip"`
 
 > Tens sugestōes para um evento que queiras apresentar?  
 > Se sim, então envia a tua sugestão para [eventos@azinhaga.digital](mailto:aventos@azinhaga.digital)
 
 ---
 
-## eventos privados
+## evento privado
 
 <div class="protected">
-    <div class="protected__alert" data-id="alert">Nenhum evento com esse codigo</div>
+    <div class="protected__alert" data-id="alert">Nenhum evento com esse código</div>
     <div class="protected__content">
         <input class="protected__content__input" data-id="password" type="text" placeholder="codigo ou resposta" />
         <button data-id="button" type="button" class="protected__content__btn">Validar</button>
@@ -65,10 +52,8 @@ Vem aprender a por uma pagina na internet!
 
 ## eventos passados
 
-* eventp exemplo aprender scripting com linux
+[exemplo-evento-4](/eventos/#4)  
+`exemplo vem aprender a por uma página na internet!`
 
-```bash
-echo "Pass events 123"
-```
-
----
+[exemplo-evento-5](/eventos/#5)  
+`exemplo XYZ, scripting com linux`

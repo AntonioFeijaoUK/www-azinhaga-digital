@@ -8,12 +8,13 @@ site_description: >-
 
 
 # Copyright
-copyright: Copyright &copy; 2022 <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a> 
+copyright: Copyright &copy; 2022, <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a>. All rights reserved.
 
 theme:
   name: material
-  logo: /assets/images/background/close-up-of-green-leaves-on-blurred-leaf-background-free-photo.jpeg
+  logo: /assets/images/background/azinhaga-river-and-boats.jpeg
   features:
+    #- navigation.instant
     - navigation.tracking
     - content.code.annotate
     - navigation.tabs
@@ -76,10 +77,10 @@ extra:
 plugins:
   #- search
   - git-revision-date-localized:
-       enable_creation_date: iso_datetime
-       type: date
-       enable_creation_date: true
-       fallback_to_build_date: true
+      enable_creation_date: iso_datetime
+      type: date
+      enable_creation_date: true
+      fallback_to_build_date: true
   
 
 # Extensions
