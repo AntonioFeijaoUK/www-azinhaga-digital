@@ -11,7 +11,7 @@ hide:
 
 [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) nasceu e cresceu na [Azinhaga](https://www.freguesiadeazinhaga.pt/), e agora está em inglaterra e é o Arquiteto de Segurança Informática (`Cyber Security Architect`) na empresa inglesa `Genomics England`.
 
-![Antonio Feijao](Antonio-Feijao-Genomics-headshot-35-square_small-320x320.jpeg "Antonio Feijao")
+![Antonio Feijao](images/Antonio-Feijao-Genomics-headshot-35-square_small-320x320.jpeg "Antonio Feijao")
 
 ----
 
@@ -25,7 +25,7 @@ Em breve, esta análise e estudo vai também incluir o DNA de recém nascidos, b
 
 GEL é uma das empresas tecnologicamente mais avançadas do mundo nesta área.
 
-![Genomics England](genomics-england-landing-page.jpg "Genomics England")
+![Genomics England](images/genomics-england-landing-page.jpg "Genomics England")
 
 ----
 
@@ -35,7 +35,7 @@ Na empresa GEL, as aplicações são enormes em termos de espaço dos dados info
 
 Estamos a falar na área de Petabytes, equivalente a mil vezes 1 Terabyte, ou 1 milhão de vezes 1 Gigabite.
 
-![](benjamin-lehman-GNyjCePVRs8-unsplash-small.jpeg)
+![](images/benjamin-lehman-GNyjCePVRs8-unsplash-small.jpeg)
 
 ----
 
@@ -107,7 +107,7 @@ se a resposta é `SIM`, então regista aqui o teu interesse - <`LINK para um for
 
 **ADICIONAL**
 
-![ethical hacking](mohammad-rahmani-W-LQbAUhE64-unsplash-small.jpeg)
+![ethical hacking](images/mohammad-rahmani-W-LQbAUhE64-unsplash-small.jpeg)
 
 ----
 
@@ -132,7 +132,7 @@ autenticacao, Auth0, ..
 hck legal, red-team, blue-team  
 quantum ...  
 
-![](arget-zvHhKiVuR9M-unsplash-small.jpeg)
+![](images/target-zvHhKiVuR9M-unsplash-small.jpeg)
 
 se a resposta é **`SIM`**, então temos um desafio para ti.
 

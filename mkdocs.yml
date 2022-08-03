@@ -96,3 +96,8 @@ markdown_extensions:
   - pymdownx.details
 
 
+
+# Page tree
+nav:
+  - Home: index.md
+  - Eventos : eventos/index.md
