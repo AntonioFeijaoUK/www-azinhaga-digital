@@ -1,7 +1,7 @@
 ---
-title: Vem aprender o que é um arquiteto de segurança informatica, como funciona a internet, as redes de computadores, a securança na cloud, python, javascript, linux, servidores, etical hacking, hacking legalmente, programaçao, e mais...
+title: Vem aprender o que é um arquiteto de segurança informática, como funciona a internet, as redes de computadores, a segurança na cloud, python, javascript, linux, servidores, ethical hacking, hacking legalmente, programação front-end ou backend, e mais...
 
-description: Antonio Feijao cyber security arcquitect
+description: Antonio Feijao cyber security arquiteto
 
 # search:
 #   exclude: true
@@ -23,7 +23,7 @@ hide:
     - Registo obrigatório.
     - Menores de 18 anos só acompanhados por adulto responsável.
     - Este evento não é um curso e não é uma aula informática, é uma "conversa informal".
-    - **ADICIONAL** - possibilidade para participar numa actividade hacking legal.
+    - **ADICIONAL** - possibilidade para participar numa atividade hacking legal.
 
 !!! info "Custo"
     - Gratuito.
@@ -46,7 +46,7 @@ O que é a segurança nas `redes de computadores`, `routers`, `switches`? Precis
 
 Como pôr uma `página na internet`?
 
-...e a securança na `cloud`?
+...e a segurança na `cloud`?
 
 O que é `python`, `javascript`?
 
@@ -56,7 +56,7 @@ Para que servem os `servidores`, `maquinas virtuais`, `docker container`, e agor
 
 Sabias que podes fazer `hacking` de forma `legal`? E podes ser pago por isso `€`?
 
-Já experimentaste o `raspberry pi`, um computador tamanho de um cartao de multi-banco?
+Já experimentaste o `raspberry pi`, um computador tamanho de um cartão de multi-banco?
 
 `Passwords`, como ter uma que seja segura? Ou nao existem passwords seguras? O que é o `MFA`, `2FA`, `yubikey`?
 
@@ -73,7 +73,7 @@ Se estás na escola e estes tópicos interessam-te, queres tirar dúvidas ou par
 `Data e local` - No primeiro fim de semana de Setembro 2022, data e local na Azinhaga por confirmar.
 
 !!! important "Regista o teu interesse em participar"
-    ## `>>>` [INSCRIÇAO AQUI](https://forms.gle/p8zU9m7DFQHio9gj6) `<<<`
+    ## `>>>` [INSCRIÇÃO AQUI](https://forms.gle/p8zU9m7DFQHio9gj6) `<<<`
     
 
 ----
@@ -104,7 +104,7 @@ GEL é uma das empresas tecnologicamente mais avançadas do mundo nesta área.
 
 Na empresa GEL, as aplicações são enormes em termos de espaço dos dados informáticos.
 
-Estamos a falar na área de Petabytes, equivalente a mil vezes 1 Terabyte, ou 1 milhão de vezes 1 Gigabite.
+Estamos a falar na área de Petabytes, equivalente a mil vezes 1 Terabyte, ou 1 milhão de vezes 1 Gigabyte.
 
 ![](images/benjamin-lehman-GNyjCePVRs8-unsplash-small.jpeg)
 
@@ -138,7 +138,7 @@ O acesso a estas aplicações, aos dados e resultados, são altamente restritos.
 
 ### responsabilidades do antonio feijao
 
-[Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) está a co-liderar a equipa de segurança informática, é o arquiteto de infraestrutura na cloud `AWS`, e é o Arquitecto de Segurança informática.
+[Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) está a co-liderar a equipa de segurança informática, é o arquiteto de infraestrutura na cloud `AWS`, e é o Arquiteto de Segurança informática.
 
 ----
 
@@ -146,9 +146,9 @@ O acesso a estas aplicações, aos dados e resultados, são altamente restritos.
 
 [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk), natural de [Azinhaga](https://www.freguesiadeazinhaga.pt/), considerada a aldeia mais [ribatejana de Portugal](https://pt.wikipedia.org/wiki/Azinhaga_(Goleg%C3%A3)).
 
-Versao em ingles [Azinhaga](https://en.wikipedia.org/wiki/Azinhaga)
+Versão em ingles [Azinhaga](https://en.wikipedia.org/wiki/Azinhaga)
 
-Então, como é que [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) vai da `Azinhaga`, para o nivel de responsabilidade numa empresa do estado inglês e adquire um nível de conhecimento informático necessário para ser arquitectura da infraestrutura informática na `aws` cloud, co-liderar uma equipa de segurança information, ser o arquitecto de segurança informática, perceber de Ethical Hacking (hacker legal), redes de computadores, internet, etc...
+Então, como é que [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) vai da `Azinhaga`, para o nível de responsabilidade numa empresa do estado inglês e adquire um nível de conhecimento informático necessário para ser arquitetura da infraestrutura informática na `aws` cloud, co-liderar uma equipa de segurança information, ser o arquiteto de segurança informática, perceber de Ethical Hacking (hacker legal), redes de computadores, internet, etc...
 
 ----
 
@@ -172,7 +172,7 @@ se alguém está interessado em ser Ethical Hacker (hacker legal), e possivelmen
 
 se alguém quer partilhar a sua opinião e experiência, eu quero ouvir.
 
-se a resposta é `SIM`, então regista aqui o teu interesse - <`LINK para um formulario de registo`>
+se a resposta é `SIM`, então regista aqui o teu interesse - <`LINK para um formulário de registo`>
 
 ----
 
@@ -189,17 +189,17 @@ se a resposta é `SIM`, então regista aqui o teu interesse - <`LINK para um for
 tens um portátil e gostarias de praticar ou aprender mais sobre:
 
 redes informáticas, redes ip, IPv4, IPv6, DNS, DHCP, VLAN, Routing...  
-Linux, Ubuntu, Debian, Centos, Redhat, webserver, databases...  
-programacao, bash-scripting, python, javascript...  
+Linux, Ubuntu, Debian, Centos, Redhat, web-server, databases...  
+programação, bash-scripting, python, javascript...  
 AWS cloud...  
 
 ### ethical hacking avançado
 
 já tens alguma experiência e gostarias de praticar ou aprender mais sobre:
 
-encriptacao, encoding, hashing, MD5, SHA<1|256|512>, AES256, AES512, base64, ...  
+encriptação, encoding, hashing, MD5, SHA<1|256|512>, AES256, AES512, base64, ...  
 inspeção de pacotes na rede, tcpdump, wireshark,...  
-autenticacao, Auth0, ..  
+autenticação, Auth0, ..  
 hck legal, red-team, blue-team  
 quantum ...  
 
@@ -207,7 +207,7 @@ quantum ...
 
 se a resposta é **`SIM`**, então temos um desafio para ti.
 
-este tipo de actividade é muito prático, "mãos no teclado", por isso é preciso que já tenhas alguns conhecimentos básicos.
+este tipo de atividade é muito prático, "mãos no teclado", por isso é preciso que já tenhas alguns conhecimentos básicos.
 
 Antes de poderes registares o teu interesse, tenho uns desafios para ti.
 

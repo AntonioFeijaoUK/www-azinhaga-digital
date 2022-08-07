@@ -29,7 +29,7 @@ Informação sobre eventos
 [exemplo evento 3](/eventos/exemplo-evento-3/)  
 `echo "vem aprender redes ip"`
 
-> Tens sugestōes para um evento que queiras apresentar?  
+> Tens sugestões para um evento que queiras apresentar?  
 > Se sim, então envia a tua sugestão para [eventos@azinhaga.digital](mailto:aventos@azinhaga.digital)
 
 ---
