@@ -1,10 +1,10 @@
 ---
 search:
-exclude: true
+  exclude: true
 hide:
-- navigation
-#- toc
-- footer
+  - navigation
+  - toc
+  - footer
 ---
 
 # Dados pedidos

@@ -3,7 +3,7 @@ search:
   exclude: true
 hide:
   - navigation
-  #- toc
+  - toc
   - footer
 ---
 

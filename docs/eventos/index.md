@@ -1,16 +1,16 @@
----
+<!-- ---
 # search:
 #   exclude: true
 
 hide:
   - navigation
-  #- toc
-  - footer
----
+  - toc
+  #- footer
+--- -->
 
 # Eventos
 
-Informacão sobre eventos
+Informação sobre eventos
 
 <div class="container">
   <section id="countdown">
@@ -20,13 +20,13 @@ Informacão sobre eventos
 </div>
 <script src="/eventos/js/count-down-timer.js"></script>
 
-[exemplo evento 1](/eventos/#1)  
+[exemplo evento 1](/eventos/exemplo-evento-1/)  
 `print('vem aprender python')`
 
-[exemplo evento 2](/eventos/#2)  
+[exemplo evento 2](/eventos/exemplo-evento-2/)  
 `console.log('vem aprender javascript')`
 
-[exemplo evento 3](/eventos/#3)  
+[exemplo evento 3](/eventos/exemplo-evento-3/)  
 `echo "vem aprender redes ip"`
 
 > Tens sugestōes para um evento que queiras apresentar?  

@@ -1,13 +1,83 @@
 ---
-search:
-  exclude: true
+title: Vem aprender o que é um arquiteto de segurança informatica, como funciona a internet, as redes de computadores, a securança na cloud, python, javascript, linux, servidores, etical hacking, hacking legalmente, programaçao, e mais...
+
+description: Antonio Feijao cyber security arcquitect
+
+# search:
+#   exclude: true
+
 hide:
   - navigation
   #- toc
   - footer
 ---
 
-# antonio feijao
+# arquiteto-de-segurança-informatica
+
+----
+
+## Conversa informal
+
+!!! attention "ATENÇÃO"
+    - Evento privado.
+    - Registo obrigatório.
+    - Menores de 18 anos só acompanhados por adulto responsável.
+    - Este evento não é um curso ou uma aula, é uma "conversa informal".
+
+!!! info "Custo"
+    - Gratuito.
+
+----
+
+Olá!
+
+Estás na escola e estás a considerar seguir o ramo de `informática`?
+
+... mas existem tantos ramos ligados à area de informática!
+
+Queres saber como é a vida de um `Arquiteto de Segurança informática`? O que é um `Arquiteto de Segurança informática`?
+
+Como é que funciona a `internet`? Como é que a `internet` funciona em casa? No mundo?
+
+O que é a segurança nas `redes de computadores`, `routers`, `switches`? Precisas uma `firewall` ou `vpn`?
+
+Preciso de `encriptar` o computador ou os ficheiro?
+
+Como por uma `página na internet`?
+
+...e securança na `cloud`?
+
+O que é `python`, `javascript`?
+
+O que é melhor, `linux` ou `Windows`?
+
+Para que servem os `servidores`, `maquinas virtuais`, `docker container`, e agora as `lambdas`?
+
+Sabias que podes fazer `hacking` de forma `legal`? E podes ser pago por isso `€`?
+
+Já experimentaste o `raspberry pi`, um computador tamanho de um cartao de multi-banco?
+
+`Passwords`, como ter uma que seja segura? Ou nao existem passwords seguras? O que é o `MFA`, `2FA`, `yubikey`?
+
+e mais... muito mais.
+
+----
+
+## Registo
+
+Se estás na escola e estes tópicos interessam-te, queres tirar dúvidas ou partilhar a tua experiência, então vem participar numa `conversa informal` com [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk).
+
+`conversa informal` - desprovido de formalidades, à vontade; descontraído, [infopedia.pt](https://www.infopedia.pt/dicionarios/lingua-portuguesa/informal)
+
+`Data e local` - No primeiro fim de semana de Setembro 2022, data e local na Azinhaga por confirmar.
+
+!!! important "Regista o teu interesse em participar"
+    ## `>>>` [INSCRIÇAO AQUI](https://forms.gle/p8zU9m7DFQHio9gj6) `<<<`
+    
+
+----
+
+## Mais sobre o Antonio Feijao
 
 [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) nasceu e cresceu na [Azinhaga](https://www.freguesiadeazinhaga.pt/), e agora está em inglaterra e é o Arquiteto de Segurança Informática (`Cyber Security Architect`) na empresa inglesa `Genomics England`.
 
@@ -15,7 +85,7 @@ hide:
 
 ----
 
-## a empresa Genomics England
+### a empresa Genomics England
 
 [Genomics England](https://www.genomicsengland.co.uk/), abreviado `GEL`, é uma empresa do estado inglês no sector da saúde.  
 
@@ -29,7 +99,7 @@ GEL é uma das empresas tecnologicamente mais avançadas do mundo nesta área.
 
 ----
 
-## tamanho dos dados informáticos
+### tamanho dos dados informáticos
 
 Na empresa GEL, as aplicações são enormes em termos de espaço dos dados informáticos.
 
@@ -39,7 +109,7 @@ Estamos a falar na área de Petabytes, equivalente a mil vezes 1 Terabyte, ou 1 
 
 ----
 
-## confidencialidade e segurança informática
+### confidencialidade e segurança informática
 
 Estas aplicações contém um tipo de informação que é do mais alto nível de confidencialidade que existe.
 
@@ -47,31 +117,31 @@ O nosso DNA inclui informação sobre nós, mas também inclui parte do DNA dos 
 
 ----
 
-## rapidez de resposta e resultados
+### rapidez de resposta e resultados
 
 Para estas aplicações serem úteis, os cientistas precisam de respostas em tempo útil.
 
 ----
 
-## acesso altamente controlado
+### acesso altamente controlado
 
 O acesso a estas aplicações, aos dados e resultados, são altamente restritos.
 
 ----
 
-## cloud e tradicional centro de dados
+### cloud e tradicional centro de dados
 
 `90%` das aplicações estão na cloud, `6%` no centro de dados (`data centre`) e `4%` sao outras entidades, ou `SaaS` (Software as a Services).
 
 ----
 
-## responsabilidades do antonio feijao
+### responsabilidades do antonio feijao
 
 [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) está a co-liderar a equipa de segurança informática, é o arquiteto de infraestrutura na cloud `AWS`, e é o Arquitecto de Segurança informática.
 
 ----
 
-## antonio feijao e azinhaga
+### antonio feijao e azinhaga
 
 [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk), natural de [Azinhaga](https://www.freguesiadeazinhaga.pt/), considerada a aldeia mais [ribatejana de Portugal](https://pt.wikipedia.org/wiki/Azinhaga_(Goleg%C3%A3)).
 
@@ -81,13 +151,13 @@ Então, como é que [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk
 
 ----
 
-## setembro 2022
+### setembro 2022
 
 [Antonio Feijao](https://www.linkedin.com/in/antoniofeijaouk) vai estar na [Azinhaga](https://www.freguesiadeazinhaga.pt/) em setembro.
 
 ----
 
-## antonio feijao gostava de saber
+### antonio feijao gostava de saber
 
 se existe alguém na [Azinhaga](https://www.freguesiadeazinhaga.pt/) que esteja a pensar seguir o ramo de informática, programação, segurança informática, na aws cloud ou centro de dados.
 
@@ -105,13 +175,13 @@ se a resposta é `SIM`, então regista aqui o teu interesse - <`LINK para um for
 
 ----
 
-**ADICIONAL**
+## ADICIONAL
 
 ![ethical hacking](images/mohammad-rahmani-W-LQbAUhE64-unsplash-small.jpeg)
 
 ----
 
-## ethical hacking introdução
+### ethical hacking introdução
 
 ### ethical hacking aula prática
 
@@ -140,6 +210,6 @@ este tipo de aulas é muito prático, "mãos no teclado", por isso é preciso qu
 
 Antes de poderes registares o teu interesse, tenho uns desafios para ti.
 
-O desafio começa aqui `<LINK PARA os DESAFIOS>`, boa sorte.
+O desafio começa aqui `TBC - <LINK PARA os DESAFIOS>`, boa sorte.
 
 <!-- [LINK para desafio](/eventos/antonio/) -->

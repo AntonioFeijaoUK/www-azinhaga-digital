@@ -3,12 +3,12 @@ site_name: Azinhaga.Digital
 site_url: https://azinhaga.digital/
 site_author: Antonio Feijao UK
 site_description: >-
-  Azinhaga digital
-  learning by doing, linux, networking, containers, aws, cloud, pentesting, and more...
+  Azinhaga Digital, para um futuro mais digital.
+  Aprender fazendo, linux, it security, networking, containers, aws, cloud, pentesting, e mais...
 
 
 # Copyright
-copyright: Copyright &copy; 2022, <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a>. All rights reserved.
+copyright: Copyright &copy; 2022, <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a>. Todos os direitos reservados.
 
 theme:
   name: material
@@ -32,7 +32,7 @@ theme:
       previous: 80 # p
       search: 83   # s
   navigation_depth: 4
-  language: en
+  language: pt
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -41,7 +41,7 @@ theme:
       primary: blue
       accent: deep orange
       toggle:
-        icon: material/brightness-7 
+        icon: material/lightbulb
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -50,7 +50,7 @@ theme:
       primary: blue
       accent: deep orange
       toggle:
-        icon: material/brightness-4
+        icon: material/lightbulb-outline
         name: Switch to light mode
 #  font:
 #    text: Roboto
@@ -75,12 +75,14 @@ extra:
       link: https://instagram.com/AntonioFeijaoUK
       
 plugins:
-  #- search
+  #- search:
+  #  lang: en
   - git-revision-date-localized:
       enable_creation_date: iso_datetime
       type: date
       enable_creation_date: true
       fallback_to_build_date: true
+  
   
 
 # Extensions
@@ -96,8 +98,15 @@ markdown_extensions:
   - pymdownx.details
 
 
-
-# Page tree
+## Page tree
 nav:
   - Home: index.md
-  - Eventos : eventos/index.md
+  - Eventos:
+    - eventos/index.md
+    - exemplo-evento-1: eventos/exemplo-evento-1/index.md
+    - exemplo-evento-2: eventos/exemplo-evento-2/index.md
+    - exemplo-evento-3: eventos/exemplo-evento-3/index.md
+    - exemplo-evento-4: eventos/exemplo-evento-4/index.md
+  - Contacto: contacto.md
+  - Sobre: sobre.md
+  
