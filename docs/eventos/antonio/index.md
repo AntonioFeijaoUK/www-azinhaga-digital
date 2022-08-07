@@ -90,9 +90,9 @@ Se estás na escola e estes tópicos interessam-te, queres tirar dúvidas ou par
 
 [Genomics England](https://www.genomicsengland.co.uk/), abreviado `GEL`, é uma empresa do estado inglês no sector da saúde.  
 
-A GEL desenvolve aplicações informáticas que permite aos cientistas e investigadores na área da saúde, analisar e estudar o DNA de uma pessoa e compará-la com o DNA de milhares de outras pessoas.
+A GEL desenvolve aplicações informáticas que permite aos cientistas e investigadores na área da saúde, analisar e estudar o ADN de uma pessoa e compará-la com o ADN de milhares de outras pessoas.
 
-Em breve, esta análise e estudo vai também incluir o DNA de recém nascidos, bebés.
+Em breve, esta análise e estudo vai também incluir o ADN de recém nascidos, bebés.
 
 GEL é uma das empresas tecnologicamente mais avançadas do mundo nesta área.
 
@@ -114,7 +114,7 @@ Estamos a falar na área de Petabytes, equivalente a mil vezes 1 Terabyte, ou 1 
 
 Estas aplicações contém um tipo de informação que é do mais alto nível de confidencialidade que existe.
 
-O nosso DNA inclui informação sobre nós, mas também inclui parte do DNA dos nossos familiares presentes, passados e futuros.
+O nosso ADN inclui informação sobre nós, mas também inclui parte do ADN dos nossos familiares presentes, passados e futuros.
 
 ----
 
