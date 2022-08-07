@@ -22,7 +22,8 @@ hide:
     - Evento privado.
     - Registo obrigatório.
     - Menores de 18 anos só acompanhados por adulto responsável.
-    - Este evento não é um curso ou uma aula, é uma "conversa informal".
+    - Este evento não é um curso e não é uma aula informática, é uma "conversa informal".
+    - **ADICIONAL** - possibilidade para participar numa actividade hacking legal.
 
 !!! info "Custo"
     - Gratuito.
@@ -41,15 +42,15 @@ Como é que funciona a `internet`? Como é que a `internet` funciona em casa? No
 
 O que é a segurança nas `redes de computadores`, `routers`, `switches`? Precisas uma `firewall` ou `vpn`?
 
-Preciso de `encriptar` o computador ou os ficheiro?
+É preciso `encriptar` o disco do `computador` ou os `ficheiro`?
 
-Como por uma `página na internet`?
+Como pôr uma `página na internet`?
 
-...e securança na `cloud`?
+...e a securança na `cloud`?
 
 O que é `python`, `javascript`?
 
-O que é melhor, `linux` ou `Windows`?
+O que é melhor, `Windows` ou `linux`?
 
 Para que servem os `servidores`, `maquinas virtuais`, `docker container`, e agora as `lambdas`?
 
@@ -167,7 +168,7 @@ se alguém está interessado na história de [Antonio Feijao](https://www.linked
 
 se é possível inspirar outros a explorar mundos lá fora, ou a partir da [Azinhaga](https://www.freguesiadeazinhaga.pt/).
 
-se alguém está interessado em ser Ethical Hacker (hacker legal), e possivelmente ganhar extra dinheiro no tempo livre.
+se alguém está interessado em ser Ethical Hacker (hacker legal), e possivelmente ganhar dinheiro extra no tempo livre.
 
 se alguém quer partilhar a sua opinião e experiência, eu quero ouvir.
 
@@ -183,7 +184,7 @@ se a resposta é `SIM`, então regista aqui o teu interesse - <`LINK para um for
 
 ### ethical hacking introdução
 
-### ethical hacking aula prática
+### ethical hacking actividade prática
 
 tens um portátil e gostarias de praticar ou aprender mais sobre:
 
@@ -206,7 +207,7 @@ quantum ...
 
 se a resposta é **`SIM`**, então temos um desafio para ti.
 
-este tipo de aulas é muito prático, "mãos no teclado", por isso é preciso que já tenhas alguns conhecimentos básicos.
+este tipo de actividade é muito prático, "mãos no teclado", por isso é preciso que já tenhas alguns conhecimentos básicos.
 
 Antes de poderes registares o teu interesse, tenho uns desafios para ti.
 
