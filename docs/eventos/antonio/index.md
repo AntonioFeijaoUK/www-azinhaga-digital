@@ -60,7 +60,7 @@ Já experimentaste o `raspberry pi`, um computador tamanho de um cartão de mult
 
 `Passwords`, como ter uma que seja segura? Ou nao existem passwords seguras? O que é o `MFA`, `2FA`, `yubikey`?
 
-e mais... muito mais.
+... [machine learning](https://coral.ai/examples/), e mais... muito mais.
 
 ----
 
