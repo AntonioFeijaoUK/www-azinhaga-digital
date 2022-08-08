@@ -28,3 +28,4 @@ Em binario, qual e' o resultado de 0111 + 0001 ? (1000)
 
 Qual e' o sha256 desta image ...URL?  ( .....)
 (Podes pedir ou procurar ajuda...)
+07e504c3f0b6763139f09491a82da68baf2990090e2a62dfdfc716fa3ccc4XXXec9  azinhaga-river-and-boats.jpeg

@@ -74,7 +74,6 @@ Se estás na escola e estes tópicos interessam-te, queres tirar dúvidas ou par
 
 !!! important "Regista o teu interesse em participar"
     ## `>>>` [INSCRIÇÃO AQUI](https://forms.gle/p8zU9m7DFQHio9gj6) `<<<`
-    
 
 ----
 
@@ -211,6 +210,10 @@ este tipo de atividade é muito prático, "mãos no teclado", por isso é precis
 
 Antes de poderes registares o teu interesse, tenho uns desafios para ti.
 
-O desafio começa aqui `TBC - <LINK PARA os DESAFIOS>`, boa sorte.
+O registo e desafio começa aqui, boa sorte.
 
-<!-- [LINK para desafio](/eventos/antonio/) -->
+!!! important "Atividade prática, regista aqui o teu interesse em participar"
+    ## `>>>` [Atividade prática INSCRIÇÃO AQUI](https://forms.gle/fxJf1mPGaCZR2zLi9) `<<<`
+
+Obrigado,
+AF
